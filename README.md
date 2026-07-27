@@ -63,8 +63,11 @@ Information retrieval system built from scratch over arXiv papers — inverted i
 ## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sebiakods&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=ffffff&title_color=1A202C&icon_color=2D3748&text_color=2D3748" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebiakods&layout=compact&hide_border=true&bg_color=ffffff&title_color=1A202C&text_color=2D3748" height="165"/>
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=2D3748&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsebiakods&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sebiakods?label=Followers&style=flat-square&color=2D3748&labelColor=1A202C)
+![Total Stars](https://img.shields.io/badge/dynamic/json?color=2D3748&label=Total%20Stars&query=%24%5B*%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsebiakods%2Frepos&style=flat-square)
+
 </div>
 
 <br/>
