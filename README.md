@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Sebia Kods 👋</h1>
-
 <h3 align="center">
 AI Engineer · Machine Learning Researcher · Data Scientist
 </h3>
 
 <p align="center">
   Designing intelligent systems where <b>AI meets real-world impact</b>.<br/>
-  Interested in Deep Learning, Reinforcement Learning, and building scalable ML solutions from data to deployment.
+  Focused on Deep Learning, Reinforcement Learning, and building ML solutions from data to deployment.
 </p>
 
 <p align="center">
@@ -19,12 +18,11 @@ AI Engineer · Machine Learning Researcher · Data Scientist
 ---
 
 ## 🧠 About Me
-
-- 🎓 M.Sc. graduate in **Information & Image Engineering**
-- 🤖 Exploring **Machine Learning, Deep Learning & Offline Reinforcement Learning**
-- 🏥 Researching AI solutions for **personalized healthcare**
-- 🛠️ Building ML pipelines, intelligent applications, and data-driven systems
-- 🌍 Open to AI/ML research opportunities and collaborations
+- 🎓 M.Sc. in **Fondements et Ingénierie de l'Information et de l'Image (F3I)**, Université Ferhat Abbas Sétif
+- 🤖 Focused on **Machine Learning, Deep Learning & Offline Reinforcement Learning**
+- 🏥 Working on AI for **personalized healthcare** — RL-based insulin dosing on ICU data
+- 🛠️ Building ML pipelines and applied ML systems end to end
+- 🌍 Open to AI/ML entry-level roles and research collaborations
 
 ---
 
@@ -41,30 +39,22 @@ AI Engineer · Machine Learning Researcher · Data Scientist
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### Software Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
 ---
 
 ## 🚀 Featured Work
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🏥 **Offline RL for Insulin Dosing** | Personalized drug dosing using offline reinforcement learning on ICU data | Python · PyTorch · RL · MIMIC |
-| 🔥 **Forest Fire Prediction** | Machine learning model for environmental risk prediction | Python · ML · Data Analysis |
-| 🌐 **AI Portfolio Platform** | Modern web platform showcasing AI projects and research | Next.js · TypeScript |
+| 🏥 **Offline RL for Insulin Dosing** | Personalized dosing policy learned from MIMIC-III ICU data using offline reinforcement learning | Python · PyTorch · RL |
+| 🔥 **Forest Fire Prediction (Algeria)** | Multi-model fire risk system (Random Forest, SVM, Logistic Regression) with a real-time API and interactive maps | Python · scikit-learn · Flask |
+| 📚 **Academic Paper IR System** | Search engine for arXiv papers — inverted index, Boolean search, phrase & proximity search, TF-IDF ranking | Python · NLP |
 
 ---
 
 ## 📈 GitHub Activity
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sebiakods&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebiakods&theme=tokyonight&hide_border=true"/>
 </p>
@@ -72,3 +62,6 @@ AI Engineer · Machine Learning Researcher · Data Scientist
 ---
 
 ## 🌱 Currently Exploring
+- Fine-tuning LLMs with LangChain for domain-specific applications
+- Expanding the offline RL work into a full clinical decision-support prototype
+- Deploying ML models as production-ready APIs
