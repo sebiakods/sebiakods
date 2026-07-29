@@ -7,7 +7,7 @@
 Building applied ML systems from raw data to deployed models, with a research focus on offline reinforcement learning for clinical decision-making.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebia-kods-472a752a8/)
-[![Email](https://img.shields.io/badge/Email-2D3748?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-2D3748?style=flat-square&logo=gmail&logoColor=white)](sebiakods@gmaicom)
 [![Followers](https://img.shields.io/github/followers/sebiakods?label=Followers&style=flat-square&color=2D3748&labelColor=1A202C)](https://github.com/sebiakods)
 
 </div>
